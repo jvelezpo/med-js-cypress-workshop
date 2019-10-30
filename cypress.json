@@ -1,3 +1,4 @@
 {
-  "projectId": "sxtr9y"
+  "projectId": "sxtr9y",
+  "baseUrl": "http://127.0.0.1:8000"
 }
