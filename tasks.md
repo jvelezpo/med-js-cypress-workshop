@@ -8,6 +8,8 @@
 
 * #### Have it run and pass on Cypress Dashboard (hint: https://docs.cypress.io/guides/dashboard/projects.html#Record-key)
 
+* #### Deploy to a static server (hint: https://docs.travis-ci.com/user/deployment/surge/)
+
 ### Pick one
 
 * #### Have it run and pass on Travis
