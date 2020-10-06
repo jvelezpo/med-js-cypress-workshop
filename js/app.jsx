@@ -14,7 +14,7 @@ var app = app || {};
 	var TodoFooter = app.TodoFooter;
 	var TodoItem = app.TodoItem;
 
-	var ENTER_KEY = 13;
+	const ENTER_KEY = 13;
 
 	var TodoApp = React.createClass({
 		getInitialState: function () {
