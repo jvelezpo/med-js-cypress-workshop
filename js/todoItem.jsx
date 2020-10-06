@@ -8,8 +8,8 @@ var app = app || {};
 (function () {
 	'use strict';
 
-	var ESCAPE_KEY = 27;
-	var ENTER_KEY = 13;
+	const ESCAPE_KEY = 27;
+	const ENTER_KEY = 13;
 
 	app.TodoItem = React.createClass({
 		handleSubmit: function (event) {
