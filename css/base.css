@@ -1,19 +1,19 @@
 hr {
 	margin: 20px 0;
 	border: 0;
-	border-top: 1px dashed #c5c5c5;
-	border-bottom: 1px dashed #f7f7f7;
+	border-top: 1px dashed #c5c0c0;
+	border-bottom: 1px dashed #d6d1d1;
 }
 
 .learn a {
 	font-weight: normal;
 	text-decoration: none;
-	color: #b83f45;
+	color: #b34349;
 }
 
 .learn a:hover {
 	text-decoration: underline;
-	color: #787e7e;
+	color: #7d8686;
 }
 
 .learn h3,
