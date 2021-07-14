@@ -58,5 +58,5 @@ You should see the TodoMVC app up and running. We are now ready to run Cypress t
 
 [Follow these instructions to run the tests in CI.](https://on.cypress.io/guides/continuous-integration#section-running-in-ci)
 
-![image](https://user-images.githubusercontent.com/1050904/125680978-200ecf0b-6dff-4a76-900e-60bda5a9ff47.png)
+![image](https://user-images.githubusercontent.com/1050904/125681305-0990606c-f363-4971-b9ba-5b17c0f38261.png)
 
